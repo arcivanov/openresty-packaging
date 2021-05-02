@@ -1,5 +1,5 @@
 Name:               openresty-openssl111-asan
-Version:            1.1.1i
+Version:            1.1.1k
 Release:            5%{?dist}
 Summary:            Clang AddressSanitizer Debug version of the OpenSSL library for OpenResty
 

@@ -1,5 +1,5 @@
 Name:               openresty-openssl111-debug
-Version:            1.1.1i
+Version:            1.1.1k
 Release:            2%{?dist}
 Summary:            Debug version of the OpenSSL library for OpenResty
 
